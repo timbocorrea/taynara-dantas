@@ -1,4 +1,4 @@
 #EXTM3U
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", TITULO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="", 
 https://s7.pandafiles.com:183/d/XXXXXXXXXXXXXXX/video.mp4
